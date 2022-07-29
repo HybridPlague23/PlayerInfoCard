@@ -1,0 +1,8 @@
+name: PlayerInfoCard
+main: me.hybridplague.playerinfocard.PlayerInfoCard
+version: 1.0
+depend: [VotingPlugin, Vault, PlaceholderAPI]
+api-version: 1.13
+
+commands:
+  getcard:
